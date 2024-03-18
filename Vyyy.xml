@@ -654,18 +654,18 @@
       <conditions>
         <Condition i:type="SubTypeCondition">
           <type>
-            <EquipmentType>ONE_HANDED_AXE</EquipmentType>
-            <EquipmentType>ONE_HANDED_MACES</EquipmentType>
-            <EquipmentType>ONE_HANDED_SCEPTRE</EquipmentType>
-            <EquipmentType>ONE_HANDED_SWORD</EquipmentType>
-            <EquipmentType>WAND</EquipmentType>
-            <EquipmentType>ONE_HANDED_DAGGER</EquipmentType>
-            <EquipmentType>TWO_HANDED_AXE</EquipmentType>
-            <EquipmentType>TWO_HANDED_MACE</EquipmentType>
+            <EquipmentType>BOW</EquipmentType>
             <EquipmentType>TWO_HANDED_SPEAR</EquipmentType>
+            <EquipmentType>ONE_HANDED_SWORD</EquipmentType>
+            <EquipmentType>TWO_HANDED_AXE</EquipmentType>
+            <EquipmentType>WAND</EquipmentType>
+            <EquipmentType>ONE_HANDED_MACES</EquipmentType>
+            <EquipmentType>ONE_HANDED_DAGGER</EquipmentType>
+            <EquipmentType>TWO_HANDED_MACE</EquipmentType>
+            <EquipmentType>ONE_HANDED_SCEPTRE</EquipmentType>
             <EquipmentType>TWO_HANDED_STAFF</EquipmentType>
             <EquipmentType>TWO_HANDED_SWORD</EquipmentType>
-            <EquipmentType>BOW</EquipmentType>
+            <EquipmentType>ONE_HANDED_AXE</EquipmentType>
             <EquipmentType>CATALYST</EquipmentType>
             <EquipmentType>SHIELD</EquipmentType>
             <EquipmentType>QUIVER</EquipmentType>
@@ -781,6 +781,11 @@
             <int>37</int>
             <int>725</int>
             <int>72</int>
+            <int>2</int>
+            <int>6</int>
+            <int>5</int>
+            <int>18</int>
+            <int>93</int>
           </affixes>
           <comparsion>MORE_OR_EQUAL</comparsion>
           <comparsionValue>6</comparsionValue>
