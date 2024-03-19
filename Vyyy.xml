@@ -539,19 +539,14 @@
       <conditions>
         <Condition i:type="AffixCondition">
           <affixes>
-            <int>724</int>
             <int>579</int>
             <int>573</int>
             <int>416</int>
             <int>192</int>
             <int>571</int>
             <int>633</int>
-            <int>35</int>
-            <int>721</int>
+            <int>37</int>
             <int>382</int>
-            <int>11</int>
-            <int>341</int>
-            <int>14</int>
             <int>339</int>
             <int>381</int>
             <int>387</int>
@@ -559,6 +554,7 @@
             <int>637</int>
             <int>683</int>
             <int>709</int>
+            <int>725</int>
           </affixes>
           <comparsion>ANY</comparsion>
           <comparsionValue>5</comparsionValue>
